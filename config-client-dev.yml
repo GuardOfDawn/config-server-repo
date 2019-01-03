@@ -7,4 +7,4 @@ spring:
     username: springcloud
     password: '{cipher}AQBSs5Z5RaeX1ZBS9Pmdo83jXoypCnillcdbMeB70OUN5OcbwkapxNoVHtK73CN0QPntBUCB1V3CSklvpBy4S6MOGGgjzGi7RogMHTa+z73TFrY61FTeEb2273JwZp/li0TDNkKsmPP9bS0jBVvuI3wVJN0v+93juPhpwZqDUgBGGJKtSnqO5L1jIgc/E9aVvg8mrkL3pW4JQ7hNXGhd1ffgB9y0GGkBuLkidSrxcSJBw+HAoTBO0MOLVU06VQNOk4JwLT+VHp69bB/KbSmQxecvT/ggMyZhqp1MbTeMCFbsMxjTjiP405ptbgxLhwaT3b82/lbOa4qTO6eTApWv3ccGIBj2glykKFS89cIqLmDDd5VaiLS6syl1aCbe2+Dmp3E='
 
-from: git-dev-4.3
+from: git-dev-4.3.2
