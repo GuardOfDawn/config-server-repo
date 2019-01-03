@@ -7,4 +7,4 @@ spring:
     username: springcloud
     password: zy123456
 
-from: git-dev-4.0
+from: git-dev-4.1
