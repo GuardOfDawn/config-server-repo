@@ -1,4 +1,10 @@
 info:
   profile: dev
+spring:
+  rabbitmq:
+    host: http://120.79.219.248
+    port: 5672
+    username: admin
+    password: admin
 
 from: git-dev-4.0
